@@ -1,4 +1,4 @@
-// this is a simple calculator program
+// this is a simple calculator
 import java.text.NumberFormat;
 import java.util.Scanner;
 
